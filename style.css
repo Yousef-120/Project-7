@@ -800,6 +800,7 @@ header {
         display: flex;
         gap: 8px;
         background-color: #ffffff;
+        color: #282828;
       }
     }
   }
