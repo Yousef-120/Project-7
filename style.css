@@ -139,6 +139,8 @@ header {
             text-decoration: none;
             color: white;
             padding: 3px 0;
+            border: 2px solid transparent;
+            transition: 0.3s all;
           }
           a:hover {
             border-bottom: #ffffff 2px solid;
@@ -1087,7 +1089,8 @@ footer {
               text-decoration: none;
               color: #bdbdbd;
               border: 2px solid transparent;
-              padding: 5px 0;
+              padding: 3px 0;
+              transition: 0.3s all;
 
               &:hover {
                 border-bottom: #bdbdbd 2px solid;
